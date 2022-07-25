@@ -1,4 +1,4 @@
-from TestCase import TestCase
+from tests.TestCase import TestCase
 
 
 class WasRun(TestCase):

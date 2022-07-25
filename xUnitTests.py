@@ -1,7 +1,7 @@
 import unittest
 
-from TestCase import TestCase
 from WasRun import WasRun
+from tests.TestCase import TestCase
 
 
 class TestCaseTest(TestCase):
