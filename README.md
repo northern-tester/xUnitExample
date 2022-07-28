@@ -1,4 +1,4 @@
-# Foobar
+# xUnitExample
 
 xUnitExample is a Python project for practicing TDD.
 
